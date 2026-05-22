@@ -2,7 +2,8 @@
 
 template sederhana untuk multipage web vite jsx + tailwind + react router dom + firebase
 
-req space kurang lebih 100mb
+req space (before npm install)
+dari repo 5 mb -> kurang lebih 100mb
 
 
 ### cara install
