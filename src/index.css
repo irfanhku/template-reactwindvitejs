@@ -3,7 +3,7 @@
 
 /* === for remove user-agent stylesheet === */
 
-/* button,
+button,
 input,
 select,
 textarea {
@@ -18,4 +18,6 @@ select:-webkit-autofill {
   -webkit-text-fill-color: #000; /* text color */
   -webkit-box-shadow: 0 0 0px 1000px white inset; /* background fix */
   transition: background-color 9999s ease-out 0s; /* prevents flash */
-} */
+}
+
+

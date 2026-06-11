@@ -5,8 +5,12 @@ template sederhana untuk multipage web vite jsx + tailwind + react router dom + 
 req space (before npm install)
 dari repo 2mb -> kurang lebih 100mb
 
-
 ### cara install
+
+PRE-install harus dulu download:
+- nodejs (https://nodejs.org/en/download/current) -> untuk npm install...
+- git (https://git-scm.com/install/windows)   -> untuk git clone, atau bisa sih donlot langsung copy dari github
+- github cli (optional)
 
 
 ```
